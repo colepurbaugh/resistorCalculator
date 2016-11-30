@@ -1,0 +1,22 @@
+{
+  "name": "resistor-calculator",
+  "version": "1.0.0",
+  "description": "Calculate resistor values",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colepurbaugh/resistorCalculator.git"
+  },
+  "keywords": [
+    "resistor"
+  ],
+  "author": "Cole Purbaugh <colepurbaugh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colepurbaugh/resistorCalculator/issues"
+  },
+  "homepage": "https://github.com/colepurbaugh/resistorCalculator#readme"
+}
